@@ -1,0 +1,6 @@
+C:\CSharpWorkspace\Chapter01\Practice\Practice06\bin\Debug\Practice06.exe.config
+C:\CSharpWorkspace\Chapter01\Practice\Practice06\bin\Debug\Practice06.exe
+C:\CSharpWorkspace\Chapter01\Practice\Practice06\bin\Debug\Practice06.pdb
+C:\CSharpWorkspace\Chapter01\Practice\Practice06\obj\Debug\Practice06.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter01\Practice\Practice06\obj\Debug\Practice06.exe
+C:\CSharpWorkspace\Chapter01\Practice\Practice06\obj\Debug\Practice06.pdb

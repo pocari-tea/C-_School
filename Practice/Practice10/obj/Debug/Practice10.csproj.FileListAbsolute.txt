@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter01\Practice\Practice10\bin\Debug\Practice10.exe.config
+C:\CSharpWorkspace\Chapter01\Practice\Practice10\bin\Debug\Practice10.exe
+C:\CSharpWorkspace\Chapter01\Practice\Practice10\bin\Debug\Practice10.pdb
+C:\CSharpWorkspace\Chapter01\Practice\Practice10\obj\Debug\Practice10.csprojAssemblyReference.cache
+C:\CSharpWorkspace\Chapter01\Practice\Practice10\obj\Debug\Practice10.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter01\Practice\Practice10\obj\Debug\Practice10.exe
+C:\CSharpWorkspace\Chapter01\Practice\Practice10\obj\Debug\Practice10.pdb

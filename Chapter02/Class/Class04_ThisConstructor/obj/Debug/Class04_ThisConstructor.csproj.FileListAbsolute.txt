@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter02\Class\Class04_ThisConstructor\bin\Debug\Class04_ThisConstructor.exe.config
+C:\CSharpWorkspace\Chapter02\Class\Class04_ThisConstructor\bin\Debug\Class04_ThisConstructor.exe
+C:\CSharpWorkspace\Chapter02\Class\Class04_ThisConstructor\bin\Debug\Class04_ThisConstructor.pdb
+C:\CSharpWorkspace\Chapter02\Class\Class04_ThisConstructor\obj\Debug\Class04_ThisConstructor.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter02\Class\Class04_ThisConstructor\obj\Debug\Class04_ThisConstructor.exe
+C:\CSharpWorkspace\Chapter02\Class\Class04_ThisConstructor\obj\Debug\Class04_ThisConstructor.pdb
+C:\CSharpWorkspace\Chapter02\Class\Class04_ThisConstructor\obj\Debug\Class04_ThisConstructor.csprojAssemblyReference.cache

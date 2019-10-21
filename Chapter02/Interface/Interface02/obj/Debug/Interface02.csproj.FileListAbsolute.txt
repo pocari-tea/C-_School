@@ -1,0 +1,6 @@
+C:\CSharpWorkspace\Chapter02\Interface\Interface02\bin\Debug\Interface02.exe.config
+C:\CSharpWorkspace\Chapter02\Interface\Interface02\bin\Debug\Interface02.exe
+C:\CSharpWorkspace\Chapter02\Interface\Interface02\bin\Debug\Interface02.pdb
+C:\CSharpWorkspace\Chapter02\Interface\Interface02\obj\Debug\Interface02.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter02\Interface\Interface02\obj\Debug\Interface02.exe
+C:\CSharpWorkspace\Chapter02\Interface\Interface02\obj\Debug\Interface02.pdb

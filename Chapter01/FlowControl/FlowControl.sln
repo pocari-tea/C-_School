@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwichCase", "SwichCase\SwichCase.csproj", "{6392C077-9052-4138-B71A-8AF0114FFFCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakAndContinue", "BreakAndContinue\BreakAndContinue.csproj", "{DA457362-7D91-484B-9DE0-98920B5A0BD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6392C077-9052-4138-B71A-8AF0114FFFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6392C077-9052-4138-B71A-8AF0114FFFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6392C077-9052-4138-B71A-8AF0114FFFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6392C077-9052-4138-B71A-8AF0114FFFCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA457362-7D91-484B-9DE0-98920B5A0BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA457362-7D91-484B-9DE0-98920B5A0BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA457362-7D91-484B-9DE0-98920B5A0BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA457362-7D91-484B-9DE0-98920B5A0BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDB77DC9-4C2A-4CB7-9876-6789DF2CDBCF}
+	EndGlobalSection
+EndGlobal

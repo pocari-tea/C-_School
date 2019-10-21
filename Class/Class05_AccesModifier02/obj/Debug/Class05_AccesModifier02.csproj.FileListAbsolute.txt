@@ -1,0 +1,6 @@
+C:\CSharpWorkspace\Chapter02\Class\Class05_AccesModifier02\bin\Debug\Class05_AccesModifier02.exe.config
+C:\CSharpWorkspace\Chapter02\Class\Class05_AccesModifier02\bin\Debug\Class05_AccesModifier02.exe
+C:\CSharpWorkspace\Chapter02\Class\Class05_AccesModifier02\bin\Debug\Class05_AccesModifier02.pdb
+C:\CSharpWorkspace\Chapter02\Class\Class05_AccesModifier02\obj\Debug\Class05_AccesModifier02.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter02\Class\Class05_AccesModifier02\obj\Debug\Class05_AccesModifier02.exe
+C:\CSharpWorkspace\Chapter02\Class\Class05_AccesModifier02\obj\Debug\Class05_AccesModifier02.pdb

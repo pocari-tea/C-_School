@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter01\Practice\Practice11\bin\Debug\Practice11.exe.config
+C:\CSharpWorkspace\Chapter01\Practice\Practice11\bin\Debug\Practice11.exe
+C:\CSharpWorkspace\Chapter01\Practice\Practice11\bin\Debug\Practice11.pdb
+C:\CSharpWorkspace\Chapter01\Practice\Practice11\obj\Debug\Practice11.csprojAssemblyReference.cache
+C:\CSharpWorkspace\Chapter01\Practice\Practice11\obj\Debug\Practice11.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter01\Practice\Practice11\obj\Debug\Practice11.exe
+C:\CSharpWorkspace\Chapter01\Practice\Practice11\obj\Debug\Practice11.pdb

@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter02\Class\Class05_AccessModifier\bin\Debug\Class05_AccessModifier.exe.config
+C:\CSharpWorkspace\Chapter02\Class\Class05_AccessModifier\bin\Debug\Class05_AccessModifier.exe
+C:\CSharpWorkspace\Chapter02\Class\Class05_AccessModifier\bin\Debug\Class05_AccessModifier.pdb
+C:\CSharpWorkspace\Chapter02\Class\Class05_AccessModifier\obj\Debug\Class05_AccessModifier.csprojAssemblyReference.cache
+C:\CSharpWorkspace\Chapter02\Class\Class05_AccessModifier\obj\Debug\Class05_AccessModifier.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter02\Class\Class05_AccessModifier\obj\Debug\Class05_AccessModifier.exe
+C:\CSharpWorkspace\Chapter02\Class\Class05_AccessModifier\obj\Debug\Class05_AccessModifier.pdb

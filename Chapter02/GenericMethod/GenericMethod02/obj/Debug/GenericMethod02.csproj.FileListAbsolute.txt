@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter02\GenericMethod\GenericMethod02\obj\Debug\GenericMethod02.csprojAssemblyReference.cache
+C:\CSharpWorkspace\Chapter02\GenericMethod\GenericMethod02\obj\Debug\GenericMethod02.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter02\GenericMethod\GenericMethod02\bin\Debug\GenericMethod02.exe.config
+C:\CSharpWorkspace\Chapter02\GenericMethod\GenericMethod02\bin\Debug\GenericMethod02.exe
+C:\CSharpWorkspace\Chapter02\GenericMethod\GenericMethod02\bin\Debug\GenericMethod02.pdb
+C:\CSharpWorkspace\Chapter02\GenericMethod\GenericMethod02\obj\Debug\GenericMethod02.exe
+C:\CSharpWorkspace\Chapter02\GenericMethod\GenericMethod02\obj\Debug\GenericMethod02.pdb

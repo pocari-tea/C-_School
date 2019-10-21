@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter03\LINQ\LINQ01\bin\Debug\LINQ01.exe.config
+C:\CSharpWorkspace\Chapter03\LINQ\LINQ01\bin\Debug\LINQ01.exe
+C:\CSharpWorkspace\Chapter03\LINQ\LINQ01\bin\Debug\LINQ01.pdb
+C:\CSharpWorkspace\Chapter03\LINQ\LINQ01\obj\Debug\LINQ01.csprojAssemblyReference.cache
+C:\CSharpWorkspace\Chapter03\LINQ\LINQ01\obj\Debug\LINQ01.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter03\LINQ\LINQ01\obj\Debug\LINQ01.exe
+C:\CSharpWorkspace\Chapter03\LINQ\LINQ01\obj\Debug\LINQ01.pdb

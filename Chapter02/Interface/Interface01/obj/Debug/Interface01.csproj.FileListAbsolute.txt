@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter02\Interface\Interface01\bin\Debug\Interface01.exe.config
+C:\CSharpWorkspace\Chapter02\Interface\Interface01\bin\Debug\Interface01.exe
+C:\CSharpWorkspace\Chapter02\Interface\Interface01\bin\Debug\Interface01.pdb
+C:\CSharpWorkspace\Chapter02\Interface\Interface01\obj\Debug\Interface01.csprojAssemblyReference.cache
+C:\CSharpWorkspace\Chapter02\Interface\Interface01\obj\Debug\Interface01.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter02\Interface\Interface01\obj\Debug\Interface01.exe
+C:\CSharpWorkspace\Chapter02\Interface\Interface01\obj\Debug\Interface01.pdb

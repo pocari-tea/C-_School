@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter02\Class\Class07_IsAs\bin\Debug\Class07_IsAs.exe.config
+C:\CSharpWorkspace\Chapter02\Class\Class07_IsAs\bin\Debug\Class07_IsAs.exe
+C:\CSharpWorkspace\Chapter02\Class\Class07_IsAs\bin\Debug\Class07_IsAs.pdb
+C:\CSharpWorkspace\Chapter02\Class\Class07_IsAs\obj\Debug\Class07_IsAs.csprojAssemblyReference.cache
+C:\CSharpWorkspace\Chapter02\Class\Class07_IsAs\obj\Debug\Class07_IsAs.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter02\Class\Class07_IsAs\obj\Debug\Class07_IsAs.exe
+C:\CSharpWorkspace\Chapter02\Class\Class07_IsAs\obj\Debug\Class07_IsAs.pdb

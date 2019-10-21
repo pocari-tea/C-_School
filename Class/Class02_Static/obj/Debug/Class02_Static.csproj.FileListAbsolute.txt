@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter02\Class\Class02_Static\bin\Debug\Class02_Static.exe.config
+C:\CSharpWorkspace\Chapter02\Class\Class02_Static\bin\Debug\Class02_Static.exe
+C:\CSharpWorkspace\Chapter02\Class\Class02_Static\bin\Debug\Class02_Static.pdb
+C:\CSharpWorkspace\Chapter02\Class\Class02_Static\obj\Debug\Class02_Static.csprojAssemblyReference.cache
+C:\CSharpWorkspace\Chapter02\Class\Class02_Static\obj\Debug\Class02_Static.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter02\Class\Class02_Static\obj\Debug\Class02_Static.exe
+C:\CSharpWorkspace\Chapter02\Class\Class02_Static\obj\Debug\Class02_Static.pdb
