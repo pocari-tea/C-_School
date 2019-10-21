@@ -1,7 +1,0 @@
-C:\CSharpWorkspace\Chapter01\Practice\Practice02\bin\Debug\Practice02.exe.config
-C:\CSharpWorkspace\Chapter01\Practice\Practice02\bin\Debug\Practice02.exe
-C:\CSharpWorkspace\Chapter01\Practice\Practice02\bin\Debug\Practice02.pdb
-C:\CSharpWorkspace\Chapter01\Practice\Practice02\obj\Debug\Practice02.csprojAssemblyReference.cache
-C:\CSharpWorkspace\Chapter01\Practice\Practice02\obj\Debug\Practice02.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter01\Practice\Practice02\obj\Debug\Practice02.exe
-C:\CSharpWorkspace\Chapter01\Practice\Practice02\obj\Debug\Practice02.pdb

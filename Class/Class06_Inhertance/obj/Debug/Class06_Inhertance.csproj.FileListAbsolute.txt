@@ -1,7 +1,0 @@
-C:\CSharpWorkspace\Chapter02\Class\Class06_Inhertance\bin\Debug\Class06_Inhertance.exe.config
-C:\CSharpWorkspace\Chapter02\Class\Class06_Inhertance\bin\Debug\Class06_Inhertance.exe
-C:\CSharpWorkspace\Chapter02\Class\Class06_Inhertance\bin\Debug\Class06_Inhertance.pdb
-C:\CSharpWorkspace\Chapter02\Class\Class06_Inhertance\obj\Debug\Class06_Inhertance.csprojAssemblyReference.cache
-C:\CSharpWorkspace\Chapter02\Class\Class06_Inhertance\obj\Debug\Class06_Inhertance.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter02\Class\Class06_Inhertance\obj\Debug\Class06_Inhertance.exe
-C:\CSharpWorkspace\Chapter02\Class\Class06_Inhertance\obj\Debug\Class06_Inhertance.pdb

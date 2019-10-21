@@ -1,7 +1,0 @@
-C:\CSharpWorkspace\Chapter01\HelloWorld\HelloWorld02\bin\Debug\HelloWorld02.exe.config
-C:\CSharpWorkspace\Chapter01\HelloWorld\HelloWorld02\bin\Debug\HelloWorld02.exe
-C:\CSharpWorkspace\Chapter01\HelloWorld\HelloWorld02\bin\Debug\HelloWorld02.pdb
-C:\CSharpWorkspace\Chapter01\HelloWorld\HelloWorld02\obj\Debug\HelloWorld02.csprojAssemblyReference.cache
-C:\CSharpWorkspace\Chapter01\HelloWorld\HelloWorld02\obj\Debug\HelloWorld02.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter01\HelloWorld\HelloWorld02\obj\Debug\HelloWorld02.exe
-C:\CSharpWorkspace\Chapter01\HelloWorld\HelloWorld02\obj\Debug\HelloWorld02.pdb
