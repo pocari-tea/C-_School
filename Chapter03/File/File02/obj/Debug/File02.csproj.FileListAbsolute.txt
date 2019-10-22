@@ -1,0 +1,13 @@
+C:\CSharpWorkspace\Chapter03\File\File\File02\bin\Debug\File02.exe.config
+C:\CSharpWorkspace\Chapter03\File\File\File02\bin\Debug\File02.exe
+C:\CSharpWorkspace\Chapter03\File\File\File02\bin\Debug\File02.pdb
+C:\CSharpWorkspace\Chapter03\File\File\File02\obj\Debug\File02.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter03\File\File\File02\obj\Debug\File02.exe
+C:\CSharpWorkspace\Chapter03\File\File\File02\obj\Debug\File02.pdb
+C:\CSharpWorkspace\Chapter03\File\File02\bin\Debug\File02.exe.config
+C:\CSharpWorkspace\Chapter03\File\File02\bin\Debug\File02.exe
+C:\CSharpWorkspace\Chapter03\File\File02\bin\Debug\File02.pdb
+C:\CSharpWorkspace\Chapter03\File\File02\obj\Debug\File02.csprojAssemblyReference.cache
+C:\CSharpWorkspace\Chapter03\File\File02\obj\Debug\File02.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter03\File\File02\obj\Debug\File02.exe
+C:\CSharpWorkspace\Chapter03\File\File02\obj\Debug\File02.pdb
