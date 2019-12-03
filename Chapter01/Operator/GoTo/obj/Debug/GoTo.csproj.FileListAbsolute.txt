@@ -1,7 +1,0 @@
-C:\CSharpWorkspace\Chapter01\Operator\GoTo\bin\Debug\GoTo.exe.config
-C:\CSharpWorkspace\Chapter01\Operator\GoTo\bin\Debug\GoTo.exe
-C:\CSharpWorkspace\Chapter01\Operator\GoTo\bin\Debug\GoTo.pdb
-C:\CSharpWorkspace\Chapter01\Operator\GoTo\obj\Debug\GoTo.csprojAssemblyReference.cache
-C:\CSharpWorkspace\Chapter01\Operator\GoTo\obj\Debug\GoTo.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter01\Operator\GoTo\obj\Debug\GoTo.exe
-C:\CSharpWorkspace\Chapter01\Operator\GoTo\obj\Debug\GoTo.pdb

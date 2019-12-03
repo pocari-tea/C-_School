@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter03\LINQ\LINQ05_Join\bin\Debug\LINQ05_Join.exe.config
+C:\CSharpWorkspace\Chapter03\LINQ\LINQ05_Join\bin\Debug\LINQ05_Join.exe
+C:\CSharpWorkspace\Chapter03\LINQ\LINQ05_Join\bin\Debug\LINQ05_Join.pdb
+C:\CSharpWorkspace\Chapter03\LINQ\LINQ05_Join\obj\Debug\LINQ05_Join.csprojAssemblyReference.cache
+C:\CSharpWorkspace\Chapter03\LINQ\LINQ05_Join\obj\Debug\LINQ05_Join.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter03\LINQ\LINQ05_Join\obj\Debug\LINQ05_Join.exe
+C:\CSharpWorkspace\Chapter03\LINQ\LINQ05_Join\obj\Debug\LINQ05_Join.pdb

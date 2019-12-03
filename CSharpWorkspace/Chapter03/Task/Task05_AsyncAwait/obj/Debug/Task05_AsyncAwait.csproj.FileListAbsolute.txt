@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter03\Task\Task05_AsyncAwait\obj\Debug\Task05_AsyncAwait.csprojAssemblyReference.cache
+C:\CSharpWorkspace\Chapter03\Task\Task05_AsyncAwait\obj\Debug\Task05_AsyncAwait.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter03\Task\Task05_AsyncAwait\bin\Debug\Task05_AsyncAwait.exe.config
+C:\CSharpWorkspace\Chapter03\Task\Task05_AsyncAwait\bin\Debug\Task05_AsyncAwait.exe
+C:\CSharpWorkspace\Chapter03\Task\Task05_AsyncAwait\bin\Debug\Task05_AsyncAwait.pdb
+C:\CSharpWorkspace\Chapter03\Task\Task05_AsyncAwait\obj\Debug\Task05_AsyncAwait.exe
+C:\CSharpWorkspace\Chapter03\Task\Task05_AsyncAwait\obj\Debug\Task05_AsyncAwait.pdb

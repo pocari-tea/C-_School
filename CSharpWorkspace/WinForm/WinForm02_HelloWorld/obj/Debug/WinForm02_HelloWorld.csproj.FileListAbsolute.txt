@@ -1,0 +1,10 @@
+C:\CSharpWorkspace\WinForm\WinForm02_HelloWorld\bin\Debug\WinForm02_HelloWorld.exe.config
+C:\CSharpWorkspace\WinForm\WinForm02_HelloWorld\bin\Debug\WinForm02_HelloWorld.exe
+C:\CSharpWorkspace\WinForm\WinForm02_HelloWorld\bin\Debug\WinForm02_HelloWorld.pdb
+C:\CSharpWorkspace\WinForm\WinForm02_HelloWorld\obj\Debug\WinForm02_HelloWorld.csprojAssemblyReference.cache
+C:\CSharpWorkspace\WinForm\WinForm02_HelloWorld\obj\Debug\WinForm02_HelloWorld.Form1.resources
+C:\CSharpWorkspace\WinForm\WinForm02_HelloWorld\obj\Debug\WinForm02_HelloWorld.Properties.Resources.resources
+C:\CSharpWorkspace\WinForm\WinForm02_HelloWorld\obj\Debug\WinForm02_HelloWorld.csproj.GenerateResource.cache
+C:\CSharpWorkspace\WinForm\WinForm02_HelloWorld\obj\Debug\WinForm02_HelloWorld.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\WinForm\WinForm02_HelloWorld\obj\Debug\WinForm02_HelloWorld.exe
+C:\CSharpWorkspace\WinForm\WinForm02_HelloWorld\obj\Debug\WinForm02_HelloWorld.pdb

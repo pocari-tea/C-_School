@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter03\Task\Task03_PrimeNumber\bin\Debug\Task03_PrimeNumber.exe.config
+C:\CSharpWorkspace\Chapter03\Task\Task03_PrimeNumber\bin\Debug\Task03_PrimeNumber.exe
+C:\CSharpWorkspace\Chapter03\Task\Task03_PrimeNumber\bin\Debug\Task03_PrimeNumber.pdb
+C:\CSharpWorkspace\Chapter03\Task\Task03_PrimeNumber\obj\Debug\Task03_PrimeNumber.csprojAssemblyReference.cache
+C:\CSharpWorkspace\Chapter03\Task\Task03_PrimeNumber\obj\Debug\Task03_PrimeNumber.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter03\Task\Task03_PrimeNumber\obj\Debug\Task03_PrimeNumber.exe
+C:\CSharpWorkspace\Chapter03\Task\Task03_PrimeNumber\obj\Debug\Task03_PrimeNumber.pdb

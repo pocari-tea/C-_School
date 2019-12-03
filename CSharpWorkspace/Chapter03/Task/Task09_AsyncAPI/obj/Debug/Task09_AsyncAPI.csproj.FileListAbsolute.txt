@@ -1,0 +1,6 @@
+C:\CSharpWorkspace\Chapter03\Task\Task09_AsyncAPI\bin\Debug\Task09_AsyncAPI.exe.config
+C:\CSharpWorkspace\Chapter03\Task\Task09_AsyncAPI\bin\Debug\Task09_AsyncAPI.exe
+C:\CSharpWorkspace\Chapter03\Task\Task09_AsyncAPI\bin\Debug\Task09_AsyncAPI.pdb
+C:\CSharpWorkspace\Chapter03\Task\Task09_AsyncAPI\obj\Debug\Task09_AsyncAPI.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter03\Task\Task09_AsyncAPI\obj\Debug\Task09_AsyncAPI.exe
+C:\CSharpWorkspace\Chapter03\Task\Task09_AsyncAPI\obj\Debug\Task09_AsyncAPI.pdb

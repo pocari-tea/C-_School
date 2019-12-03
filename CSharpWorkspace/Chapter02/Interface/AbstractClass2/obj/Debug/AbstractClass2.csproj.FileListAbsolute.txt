@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter02\Interface\AbstractClass2\bin\Debug\AbstractClass2.exe.config
+C:\CSharpWorkspace\Chapter02\Interface\AbstractClass2\bin\Debug\AbstractClass2.exe
+C:\CSharpWorkspace\Chapter02\Interface\AbstractClass2\bin\Debug\AbstractClass2.pdb
+C:\CSharpWorkspace\Chapter02\Interface\AbstractClass2\obj\Debug\AbstractClass2.csprojAssemblyReference.cache
+C:\CSharpWorkspace\Chapter02\Interface\AbstractClass2\obj\Debug\AbstractClass2.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter02\Interface\AbstractClass2\obj\Debug\AbstractClass2.exe
+C:\CSharpWorkspace\Chapter02\Interface\AbstractClass2\obj\Debug\AbstractClass2.pdb

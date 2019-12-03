@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter03\LINQ\LINQ04_GroupBy\bin\Debug\LINQ04_GroupBy.exe.config
+C:\CSharpWorkspace\Chapter03\LINQ\LINQ04_GroupBy\bin\Debug\LINQ04_GroupBy.exe
+C:\CSharpWorkspace\Chapter03\LINQ\LINQ04_GroupBy\bin\Debug\LINQ04_GroupBy.pdb
+C:\CSharpWorkspace\Chapter03\LINQ\LINQ04_GroupBy\obj\Debug\LINQ04_GroupBy.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter03\LINQ\LINQ04_GroupBy\obj\Debug\LINQ04_GroupBy.exe
+C:\CSharpWorkspace\Chapter03\LINQ\LINQ04_GroupBy\obj\Debug\LINQ04_GroupBy.pdb
+C:\CSharpWorkspace\Chapter03\LINQ\LINQ04_GroupBy\obj\Debug\LINQ04_GroupBy.csprojAssemblyReference.cache

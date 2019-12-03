@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter03\Task\Task01\bin\Debug\Task01.exe.config
+C:\CSharpWorkspace\Chapter03\Task\Task01\bin\Debug\Task01.exe
+C:\CSharpWorkspace\Chapter03\Task\Task01\bin\Debug\Task01.pdb
+C:\CSharpWorkspace\Chapter03\Task\Task01\obj\Debug\Task01.csprojAssemblyReference.cache
+C:\CSharpWorkspace\Chapter03\Task\Task01\obj\Debug\Task01.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter03\Task\Task01\obj\Debug\Task01.exe
+C:\CSharpWorkspace\Chapter03\Task\Task01\obj\Debug\Task01.pdb

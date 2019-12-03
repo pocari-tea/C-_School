@@ -1,0 +1,9 @@
+C:\CSharpWorkspace\WinForm\WinForm09_ListView\bin\Debug\WinForm09_ListView.exe.config
+C:\CSharpWorkspace\WinForm\WinForm09_ListView\bin\Debug\WinForm09_ListView.exe
+C:\CSharpWorkspace\WinForm\WinForm09_ListView\bin\Debug\WinForm09_ListView.pdb
+C:\CSharpWorkspace\WinForm\WinForm09_ListView\obj\Debug\WinForm09_ListView.csprojAssemblyReference.cache
+C:\CSharpWorkspace\WinForm\WinForm09_ListView\obj\Debug\WinForm09_ListView.Properties.Resources.resources
+C:\CSharpWorkspace\WinForm\WinForm09_ListView\obj\Debug\WinForm09_ListView.csproj.GenerateResource.cache
+C:\CSharpWorkspace\WinForm\WinForm09_ListView\obj\Debug\WinForm09_ListView.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\WinForm\WinForm09_ListView\obj\Debug\WinForm09_ListView.exe
+C:\CSharpWorkspace\WinForm\WinForm09_ListView\obj\Debug\WinForm09_ListView.pdb

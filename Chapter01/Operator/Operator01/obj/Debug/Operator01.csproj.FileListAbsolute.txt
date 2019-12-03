@@ -1,7 +1,0 @@
-C:\CSharpWorkspace\Chapter01\Operator\Operator01\bin\Debug\Operator01.exe.config
-C:\CSharpWorkspace\Chapter01\Operator\Operator01\bin\Debug\Operator01.exe
-C:\CSharpWorkspace\Chapter01\Operator\Operator01\bin\Debug\Operator01.pdb
-C:\CSharpWorkspace\Chapter01\Operator\Operator01\obj\Debug\Operator01.csprojAssemblyReference.cache
-C:\CSharpWorkspace\Chapter01\Operator\Operator01\obj\Debug\Operator01.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter01\Operator\Operator01\obj\Debug\Operator01.exe
-C:\CSharpWorkspace\Chapter01\Operator\Operator01\obj\Debug\Operator01.pdb

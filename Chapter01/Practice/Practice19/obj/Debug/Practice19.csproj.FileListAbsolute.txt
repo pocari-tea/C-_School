@@ -1,7 +1,0 @@
-C:\CSharpWorkspace\Chapter01\Practice\Practice19\bin\Debug\Practice19.exe.config
-C:\CSharpWorkspace\Chapter01\Practice\Practice19\bin\Debug\Practice19.exe
-C:\CSharpWorkspace\Chapter01\Practice\Practice19\bin\Debug\Practice19.pdb
-C:\CSharpWorkspace\Chapter01\Practice\Practice19\obj\Debug\Practice19.csprojAssemblyReference.cache
-C:\CSharpWorkspace\Chapter01\Practice\Practice19\obj\Debug\Practice19.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter01\Practice\Practice19\obj\Debug\Practice19.exe
-C:\CSharpWorkspace\Chapter01\Practice\Practice19\obj\Debug\Practice19.pdb

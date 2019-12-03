@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter03\File\File07_SerializationCollection\bin\Debug\File07_SerializationCollection.exe.config
+C:\CSharpWorkspace\Chapter03\File\File07_SerializationCollection\bin\Debug\File07_SerializationCollection.exe
+C:\CSharpWorkspace\Chapter03\File\File07_SerializationCollection\bin\Debug\File07_SerializationCollection.pdb
+C:\CSharpWorkspace\Chapter03\File\File07_SerializationCollection\obj\Debug\File07_SerializationCollection.csprojAssemblyReference.cache
+C:\CSharpWorkspace\Chapter03\File\File07_SerializationCollection\obj\Debug\File07_SerializationCollection.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter03\File\File07_SerializationCollection\obj\Debug\File07_SerializationCollection.exe
+C:\CSharpWorkspace\Chapter03\File\File07_SerializationCollection\obj\Debug\File07_SerializationCollection.pdb

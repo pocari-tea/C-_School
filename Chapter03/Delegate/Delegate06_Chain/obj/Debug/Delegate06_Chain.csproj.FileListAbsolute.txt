@@ -1,6 +1,0 @@
-C:\CSharpWorkspace\Chapter03\Delegate\Delegate06_Chain\bin\Debug\Delegate06_Chain.exe.config
-C:\CSharpWorkspace\Chapter03\Delegate\Delegate06_Chain\bin\Debug\Delegate06_Chain.exe
-C:\CSharpWorkspace\Chapter03\Delegate\Delegate06_Chain\bin\Debug\Delegate06_Chain.pdb
-C:\CSharpWorkspace\Chapter03\Delegate\Delegate06_Chain\obj\Debug\Delegate06_Chain.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter03\Delegate\Delegate06_Chain\obj\Debug\Delegate06_Chain.exe
-C:\CSharpWorkspace\Chapter03\Delegate\Delegate06_Chain\obj\Debug\Delegate06_Chain.pdb

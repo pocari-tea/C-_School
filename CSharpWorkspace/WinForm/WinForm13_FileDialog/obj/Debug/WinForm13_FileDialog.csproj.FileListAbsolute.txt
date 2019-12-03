@@ -1,0 +1,10 @@
+C:\CSharpWorkspace\WinForm\WinForm13_FileDialog\bin\Debug\WinForm13_FileDialog.exe.config
+C:\CSharpWorkspace\WinForm\WinForm13_FileDialog\bin\Debug\WinForm13_FileDialog.exe
+C:\CSharpWorkspace\WinForm\WinForm13_FileDialog\bin\Debug\WinForm13_FileDialog.pdb
+C:\CSharpWorkspace\WinForm\WinForm13_FileDialog\obj\Debug\WinForm13_FileDialog.csprojAssemblyReference.cache
+C:\CSharpWorkspace\WinForm\WinForm13_FileDialog\obj\Debug\WinForm13_FileDialog.Form1.resources
+C:\CSharpWorkspace\WinForm\WinForm13_FileDialog\obj\Debug\WinForm13_FileDialog.Properties.Resources.resources
+C:\CSharpWorkspace\WinForm\WinForm13_FileDialog\obj\Debug\WinForm13_FileDialog.csproj.GenerateResource.cache
+C:\CSharpWorkspace\WinForm\WinForm13_FileDialog\obj\Debug\WinForm13_FileDialog.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\WinForm\WinForm13_FileDialog\obj\Debug\WinForm13_FileDialog.exe
+C:\CSharpWorkspace\WinForm\WinForm13_FileDialog\obj\Debug\WinForm13_FileDialog.pdb

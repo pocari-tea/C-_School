@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter01\Practice\Practice20\bin\Debug\Practice20.exe.config
+C:\CSharpWorkspace\Chapter01\Practice\Practice20\bin\Debug\Practice20.exe
+C:\CSharpWorkspace\Chapter01\Practice\Practice20\bin\Debug\Practice20.pdb
+C:\CSharpWorkspace\Chapter01\Practice\Practice20\obj\Debug\Practice20.csprojAssemblyReference.cache
+C:\CSharpWorkspace\Chapter01\Practice\Practice20\obj\Debug\Practice20.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter01\Practice\Practice20\obj\Debug\Practice20.exe
+C:\CSharpWorkspace\Chapter01\Practice\Practice20\obj\Debug\Practice20.pdb

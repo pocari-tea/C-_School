@@ -1,0 +1,10 @@
+C:\CSharpWorkspace\WinForm\WinForm03_TextBox\bin\Debug\WinForm03_TextBox.exe.config
+C:\CSharpWorkspace\WinForm\WinForm03_TextBox\bin\Debug\WinForm03_TextBox.exe
+C:\CSharpWorkspace\WinForm\WinForm03_TextBox\bin\Debug\WinForm03_TextBox.pdb
+C:\CSharpWorkspace\WinForm\WinForm03_TextBox\obj\Debug\WinForm03_TextBox.csprojAssemblyReference.cache
+C:\CSharpWorkspace\WinForm\WinForm03_TextBox\obj\Debug\WinForm03_TextBox.Form1.resources
+C:\CSharpWorkspace\WinForm\WinForm03_TextBox\obj\Debug\WinForm03_TextBox.Properties.Resources.resources
+C:\CSharpWorkspace\WinForm\WinForm03_TextBox\obj\Debug\WinForm03_TextBox.csproj.GenerateResource.cache
+C:\CSharpWorkspace\WinForm\WinForm03_TextBox\obj\Debug\WinForm03_TextBox.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\WinForm\WinForm03_TextBox\obj\Debug\WinForm03_TextBox.exe
+C:\CSharpWorkspace\WinForm\WinForm03_TextBox\obj\Debug\WinForm03_TextBox.pdb

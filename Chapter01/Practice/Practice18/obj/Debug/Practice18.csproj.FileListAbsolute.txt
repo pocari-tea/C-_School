@@ -1,6 +1,0 @@
-C:\CSharpWorkspace\Chapter01\Practice\Practice18\bin\Debug\Practice18.exe.config
-C:\CSharpWorkspace\Chapter01\Practice\Practice18\bin\Debug\Practice18.exe
-C:\CSharpWorkspace\Chapter01\Practice\Practice18\bin\Debug\Practice18.pdb
-C:\CSharpWorkspace\Chapter01\Practice\Practice18\obj\Debug\Practice18.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter01\Practice\Practice18\obj\Debug\Practice18.exe
-C:\CSharpWorkspace\Chapter01\Practice\Practice18\obj\Debug\Practice18.pdb

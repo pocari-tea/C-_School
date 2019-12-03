@@ -1,7 +1,0 @@
-C:\CSharpWorkspace\Chapter02\Array\Array04\bin\Debug\Array04.exe.config
-C:\CSharpWorkspace\Chapter02\Array\Array04\bin\Debug\Array04.exe
-C:\CSharpWorkspace\Chapter02\Array\Array04\bin\Debug\Array04.pdb
-C:\CSharpWorkspace\Chapter02\Array\Array04\obj\Debug\Array04.csprojAssemblyReference.cache
-C:\CSharpWorkspace\Chapter02\Array\Array04\obj\Debug\Array04.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter02\Array\Array04\obj\Debug\Array04.exe
-C:\CSharpWorkspace\Chapter02\Array\Array04\obj\Debug\Array04.pdb

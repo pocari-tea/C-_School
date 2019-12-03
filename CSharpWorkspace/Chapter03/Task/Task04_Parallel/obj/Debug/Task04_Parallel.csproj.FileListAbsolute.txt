@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter03\Task\Task04_Parallel\bin\Debug\Task04_Parallel.exe.config
+C:\CSharpWorkspace\Chapter03\Task\Task04_Parallel\bin\Debug\Task04_Parallel.exe
+C:\CSharpWorkspace\Chapter03\Task\Task04_Parallel\bin\Debug\Task04_Parallel.pdb
+C:\CSharpWorkspace\Chapter03\Task\Task04_Parallel\obj\Debug\Task04_Parallel.csprojAssemblyReference.cache
+C:\CSharpWorkspace\Chapter03\Task\Task04_Parallel\obj\Debug\Task04_Parallel.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter03\Task\Task04_Parallel\obj\Debug\Task04_Parallel.exe
+C:\CSharpWorkspace\Chapter03\Task\Task04_Parallel\obj\Debug\Task04_Parallel.pdb

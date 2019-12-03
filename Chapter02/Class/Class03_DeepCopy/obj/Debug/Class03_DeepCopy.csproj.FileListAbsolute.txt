@@ -1,6 +1,0 @@
-C:\CSharpWorkspace\Chapter02\Class\Class03_DeepCopy\bin\Debug\Class03_DeepCopy.exe.config
-C:\CSharpWorkspace\Chapter02\Class\Class03_DeepCopy\bin\Debug\Class03_DeepCopy.exe
-C:\CSharpWorkspace\Chapter02\Class\Class03_DeepCopy\bin\Debug\Class03_DeepCopy.pdb
-C:\CSharpWorkspace\Chapter02\Class\Class03_DeepCopy\obj\Debug\Class03_DeepCopy.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter02\Class\Class03_DeepCopy\obj\Debug\Class03_DeepCopy.exe
-C:\CSharpWorkspace\Chapter02\Class\Class03_DeepCopy\obj\Debug\Class03_DeepCopy.pdb

@@ -1,0 +1,10 @@
+C:\CSharpWorkspace\WinForm\WinForm08_MenuAndTap\bin\Debug\WinForm08_MenuAndTap.exe.config
+C:\CSharpWorkspace\WinForm\WinForm08_MenuAndTap\bin\Debug\WinForm08_MenuAndTap.exe
+C:\CSharpWorkspace\WinForm\WinForm08_MenuAndTap\bin\Debug\WinForm08_MenuAndTap.pdb
+C:\CSharpWorkspace\WinForm\WinForm08_MenuAndTap\obj\Debug\WinForm08_MenuAndTap.csprojAssemblyReference.cache
+C:\CSharpWorkspace\WinForm\WinForm08_MenuAndTap\obj\Debug\WinForm08_MenuAndTap.Form1.resources
+C:\CSharpWorkspace\WinForm\WinForm08_MenuAndTap\obj\Debug\WinForm08_MenuAndTap.Properties.Resources.resources
+C:\CSharpWorkspace\WinForm\WinForm08_MenuAndTap\obj\Debug\WinForm08_MenuAndTap.csproj.GenerateResource.cache
+C:\CSharpWorkspace\WinForm\WinForm08_MenuAndTap\obj\Debug\WinForm08_MenuAndTap.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\WinForm\WinForm08_MenuAndTap\obj\Debug\WinForm08_MenuAndTap.exe
+C:\CSharpWorkspace\WinForm\WinForm08_MenuAndTap\obj\Debug\WinForm08_MenuAndTap.pdb

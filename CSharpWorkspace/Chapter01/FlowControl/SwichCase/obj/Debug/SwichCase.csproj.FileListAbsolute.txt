@@ -1,0 +1,6 @@
+C:\CSharpWorkspace\Chapter01\FlowControl\SwichCase\bin\Debug\SwichCase.exe.config
+C:\CSharpWorkspace\Chapter01\FlowControl\SwichCase\bin\Debug\SwichCase.exe
+C:\CSharpWorkspace\Chapter01\FlowControl\SwichCase\bin\Debug\SwichCase.pdb
+C:\CSharpWorkspace\Chapter01\FlowControl\SwichCase\obj\Debug\SwichCase.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter01\FlowControl\SwichCase\obj\Debug\SwichCase.exe
+C:\CSharpWorkspace\Chapter01\FlowControl\SwichCase\obj\Debug\SwichCase.pdb

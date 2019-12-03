@@ -1,7 +1,0 @@
-C:\CSharpWorkspace\Chapter02\GenericMethod\GenericConstraint02\bin\Debug\GenericConstraint02.exe.config
-C:\CSharpWorkspace\Chapter02\GenericMethod\GenericConstraint02\bin\Debug\GenericConstraint02.exe
-C:\CSharpWorkspace\Chapter02\GenericMethod\GenericConstraint02\bin\Debug\GenericConstraint02.pdb
-C:\CSharpWorkspace\Chapter02\GenericMethod\GenericConstraint02\obj\Debug\GenericConstraint02.csprojAssemblyReference.cache
-C:\CSharpWorkspace\Chapter02\GenericMethod\GenericConstraint02\obj\Debug\GenericConstraint02.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter02\GenericMethod\GenericConstraint02\obj\Debug\GenericConstraint02.exe
-C:\CSharpWorkspace\Chapter02\GenericMethod\GenericConstraint02\obj\Debug\GenericConstraint02.pdb

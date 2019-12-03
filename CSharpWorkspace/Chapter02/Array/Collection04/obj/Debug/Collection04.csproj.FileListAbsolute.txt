@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter02\Array\Collection04\bin\Debug\Collection04.exe.config
+C:\CSharpWorkspace\Chapter02\Array\Collection04\bin\Debug\Collection04.exe
+C:\CSharpWorkspace\Chapter02\Array\Collection04\bin\Debug\Collection04.pdb
+C:\CSharpWorkspace\Chapter02\Array\Collection04\obj\Debug\Collection04.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter02\Array\Collection04\obj\Debug\Collection04.exe
+C:\CSharpWorkspace\Chapter02\Array\Collection04\obj\Debug\Collection04.pdb
+C:\CSharpWorkspace\Chapter02\Array\Collection04\obj\Debug\Collection04.csprojAssemblyReference.cache

@@ -1,7 +1,0 @@
-C:\CSharpWorkspace\Chapter02\Interface\Interface03\bin\Debug\Interface03.exe.config
-C:\CSharpWorkspace\Chapter02\Interface\Interface03\bin\Debug\Interface03.exe
-C:\CSharpWorkspace\Chapter02\Interface\Interface03\bin\Debug\Interface03.pdb
-C:\CSharpWorkspace\Chapter02\Interface\Interface03\obj\Debug\Interface03.csprojAssemblyReference.cache
-C:\CSharpWorkspace\Chapter02\Interface\Interface03\obj\Debug\Interface03.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter02\Interface\Interface03\obj\Debug\Interface03.exe
-C:\CSharpWorkspace\Chapter02\Interface\Interface03\obj\Debug\Interface03.pdb

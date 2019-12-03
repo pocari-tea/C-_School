@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\WinForm\WinForm01_CommandLine\obj\Debug\WinForm01_CommandLine.csprojAssemblyReference.cache
+C:\CSharpWorkspace\WinForm\WinForm01_CommandLine\obj\Debug\WinForm01_CommandLine.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\WinForm\WinForm01_CommandLine\bin\Debug\WinForm01_CommandLine.exe.config
+C:\CSharpWorkspace\WinForm\WinForm01_CommandLine\bin\Debug\WinForm01_CommandLine.exe
+C:\CSharpWorkspace\WinForm\WinForm01_CommandLine\bin\Debug\WinForm01_CommandLine.pdb
+C:\CSharpWorkspace\WinForm\WinForm01_CommandLine\obj\Debug\WinForm01_CommandLine.exe
+C:\CSharpWorkspace\WinForm\WinForm01_CommandLine\obj\Debug\WinForm01_CommandLine.pdb

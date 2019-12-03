@@ -1,7 +1,0 @@
-C:\CSharpWorkspace\Chapter03\LINQ\LINQ06_Method\bin\Debug\LINQ06_Method.exe.config
-C:\CSharpWorkspace\Chapter03\LINQ\LINQ06_Method\bin\Debug\LINQ06_Method.exe
-C:\CSharpWorkspace\Chapter03\LINQ\LINQ06_Method\bin\Debug\LINQ06_Method.pdb
-C:\CSharpWorkspace\Chapter03\LINQ\LINQ06_Method\obj\Debug\LINQ06_Method.csprojAssemblyReference.cache
-C:\CSharpWorkspace\Chapter03\LINQ\LINQ06_Method\obj\Debug\LINQ06_Method.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter03\LINQ\LINQ06_Method\obj\Debug\LINQ06_Method.exe
-C:\CSharpWorkspace\Chapter03\LINQ\LINQ06_Method\obj\Debug\LINQ06_Method.pdb

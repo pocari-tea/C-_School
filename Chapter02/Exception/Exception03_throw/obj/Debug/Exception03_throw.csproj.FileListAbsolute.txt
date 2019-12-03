@@ -1,7 +1,0 @@
-C:\CSharpWorkspace\Chapter02\Exception\Exception03_throw\bin\Debug\Exception03_throw.exe.config
-C:\CSharpWorkspace\Chapter02\Exception\Exception03_throw\bin\Debug\Exception03_throw.exe
-C:\CSharpWorkspace\Chapter02\Exception\Exception03_throw\bin\Debug\Exception03_throw.pdb
-C:\CSharpWorkspace\Chapter02\Exception\Exception03_throw\obj\Debug\Exception03_throw.csprojAssemblyReference.cache
-C:\CSharpWorkspace\Chapter02\Exception\Exception03_throw\obj\Debug\Exception03_throw.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter02\Exception\Exception03_throw\obj\Debug\Exception03_throw.exe
-C:\CSharpWorkspace\Chapter02\Exception\Exception03_throw\obj\Debug\Exception03_throw.pdb

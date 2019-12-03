@@ -1,7 +1,0 @@
-C:\CSharpWorkspace\Chapter02\Exception\Exception01_TryCatch\bin\Debug\Exception01_TryCatch.exe.config
-C:\CSharpWorkspace\Chapter02\Exception\Exception01_TryCatch\bin\Debug\Exception01_TryCatch.exe
-C:\CSharpWorkspace\Chapter02\Exception\Exception01_TryCatch\bin\Debug\Exception01_TryCatch.pdb
-C:\CSharpWorkspace\Chapter02\Exception\Exception01_TryCatch\obj\Debug\Exception01_TryCatch.csprojAssemblyReference.cache
-C:\CSharpWorkspace\Chapter02\Exception\Exception01_TryCatch\obj\Debug\Exception01_TryCatch.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter02\Exception\Exception01_TryCatch\obj\Debug\Exception01_TryCatch.exe
-C:\CSharpWorkspace\Chapter02\Exception\Exception01_TryCatch\obj\Debug\Exception01_TryCatch.pdb

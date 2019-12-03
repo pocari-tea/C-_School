@@ -1,6 +1,0 @@
-C:\CSharpWorkspace\Chapter02\Exception\Exception04_finally\obj\Debug\Exception04_finally.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter02\Exception\Exception04_finally\bin\Debug\Exception04_finally.exe.config
-C:\CSharpWorkspace\Chapter02\Exception\Exception04_finally\bin\Debug\Exception04_finally.exe
-C:\CSharpWorkspace\Chapter02\Exception\Exception04_finally\bin\Debug\Exception04_finally.pdb
-C:\CSharpWorkspace\Chapter02\Exception\Exception04_finally\obj\Debug\Exception04_finally.exe
-C:\CSharpWorkspace\Chapter02\Exception\Exception04_finally\obj\Debug\Exception04_finally.pdb

@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter03\Task\Task07_MakeBreadkfast_Async\bin\Debug\Task07_MakeBreadkfast_Async.exe.config
+C:\CSharpWorkspace\Chapter03\Task\Task07_MakeBreadkfast_Async\bin\Debug\Task07_MakeBreadkfast_Async.exe
+C:\CSharpWorkspace\Chapter03\Task\Task07_MakeBreadkfast_Async\bin\Debug\Task07_MakeBreadkfast_Async.pdb
+C:\CSharpWorkspace\Chapter03\Task\Task07_MakeBreadkfast_Async\obj\Debug\Task07_MakeBreadkfast_Async.csprojAssemblyReference.cache
+C:\CSharpWorkspace\Chapter03\Task\Task07_MakeBreadkfast_Async\obj\Debug\Task07_MakeBreadkfast_Async.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter03\Task\Task07_MakeBreadkfast_Async\obj\Debug\Task07_MakeBreadkfast_Async.exe
+C:\CSharpWorkspace\Chapter03\Task\Task07_MakeBreadkfast_Async\obj\Debug\Task07_MakeBreadkfast_Async.pdb

@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter03\Task\Task06_MakeBreakfast_Sync\bin\Debug\Task06_MakeBreakfast_Sync.exe.config
+C:\CSharpWorkspace\Chapter03\Task\Task06_MakeBreakfast_Sync\bin\Debug\Task06_MakeBreakfast_Sync.exe
+C:\CSharpWorkspace\Chapter03\Task\Task06_MakeBreakfast_Sync\bin\Debug\Task06_MakeBreakfast_Sync.pdb
+C:\CSharpWorkspace\Chapter03\Task\Task06_MakeBreakfast_Sync\obj\Debug\Task06_MakeBreakfast_Sync.csprojAssemblyReference.cache
+C:\CSharpWorkspace\Chapter03\Task\Task06_MakeBreakfast_Sync\obj\Debug\Task06_MakeBreakfast_Sync.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter03\Task\Task06_MakeBreakfast_Sync\obj\Debug\Task06_MakeBreakfast_Sync.exe
+C:\CSharpWorkspace\Chapter03\Task\Task06_MakeBreakfast_Sync\obj\Debug\Task06_MakeBreakfast_Sync.pdb

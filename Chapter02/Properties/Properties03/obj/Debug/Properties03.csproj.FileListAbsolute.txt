@@ -1,7 +1,0 @@
-C:\CSharpWorkspace\Chapter02\Properties\Properties03\bin\Debug\Properties03.exe.config
-C:\CSharpWorkspace\Chapter02\Properties\Properties03\bin\Debug\Properties03.exe
-C:\CSharpWorkspace\Chapter02\Properties\Properties03\bin\Debug\Properties03.pdb
-C:\CSharpWorkspace\Chapter02\Properties\Properties03\obj\Debug\Properties03.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter02\Properties\Properties03\obj\Debug\Properties03.exe
-C:\CSharpWorkspace\Chapter02\Properties\Properties03\obj\Debug\Properties03.pdb
-C:\CSharpWorkspace\Chapter02\Properties\Properties03\obj\Debug\Properties03.csprojAssemblyReference.cache

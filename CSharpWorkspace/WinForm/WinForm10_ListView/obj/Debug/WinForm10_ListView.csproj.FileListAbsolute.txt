@@ -1,0 +1,10 @@
+C:\CSharpWorkspace\WinForm\WinForm10_ListView\bin\Debug\WinForm10_ListView.exe.config
+C:\CSharpWorkspace\WinForm\WinForm10_ListView\bin\Debug\WinForm10_ListView.exe
+C:\CSharpWorkspace\WinForm\WinForm10_ListView\bin\Debug\WinForm10_ListView.pdb
+C:\CSharpWorkspace\WinForm\WinForm10_ListView\obj\Debug\WinForm10_ListView.csprojAssemblyReference.cache
+C:\CSharpWorkspace\WinForm\WinForm10_ListView\obj\Debug\WinForm10_ListView.Form1.resources
+C:\CSharpWorkspace\WinForm\WinForm10_ListView\obj\Debug\WinForm10_ListView.Properties.Resources.resources
+C:\CSharpWorkspace\WinForm\WinForm10_ListView\obj\Debug\WinForm10_ListView.csproj.GenerateResource.cache
+C:\CSharpWorkspace\WinForm\WinForm10_ListView\obj\Debug\WinForm10_ListView.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\WinForm\WinForm10_ListView\obj\Debug\WinForm10_ListView.exe
+C:\CSharpWorkspace\WinForm\WinForm10_ListView\obj\Debug\WinForm10_ListView.pdb

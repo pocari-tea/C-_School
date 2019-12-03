@@ -1,7 +1,0 @@
-C:\CSharpWorkspace\Chapter03\LINQ\LINQ03_DoubleFrom\bin\Debug\LINQ03_DoubleFrom.exe.config
-C:\CSharpWorkspace\Chapter03\LINQ\LINQ03_DoubleFrom\bin\Debug\LINQ03_DoubleFrom.exe
-C:\CSharpWorkspace\Chapter03\LINQ\LINQ03_DoubleFrom\bin\Debug\LINQ03_DoubleFrom.pdb
-C:\CSharpWorkspace\Chapter03\LINQ\LINQ03_DoubleFrom\obj\Debug\LINQ03_DoubleFrom.csprojAssemblyReference.cache
-C:\CSharpWorkspace\Chapter03\LINQ\LINQ03_DoubleFrom\obj\Debug\LINQ03_DoubleFrom.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter03\LINQ\LINQ03_DoubleFrom\obj\Debug\LINQ03_DoubleFrom.exe
-C:\CSharpWorkspace\Chapter03\LINQ\LINQ03_DoubleFrom\obj\Debug\LINQ03_DoubleFrom.pdb

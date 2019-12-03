@@ -1,0 +1,10 @@
+C:\CSharpWorkspace\WinForm\WInForm05_ComboBox\bin\Debug\WInForm05_ComboBox.exe.config
+C:\CSharpWorkspace\WinForm\WInForm05_ComboBox\bin\Debug\WInForm05_ComboBox.exe
+C:\CSharpWorkspace\WinForm\WInForm05_ComboBox\bin\Debug\WInForm05_ComboBox.pdb
+C:\CSharpWorkspace\WinForm\WInForm05_ComboBox\obj\Debug\WInForm05_ComboBox.csprojAssemblyReference.cache
+C:\CSharpWorkspace\WinForm\WInForm05_ComboBox\obj\Debug\WInForm05_ComboBox.Form1.resources
+C:\CSharpWorkspace\WinForm\WInForm05_ComboBox\obj\Debug\WInForm05_ComboBox.Properties.Resources.resources
+C:\CSharpWorkspace\WinForm\WInForm05_ComboBox\obj\Debug\WInForm05_ComboBox.csproj.GenerateResource.cache
+C:\CSharpWorkspace\WinForm\WInForm05_ComboBox\obj\Debug\WInForm05_ComboBox.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\WinForm\WInForm05_ComboBox\obj\Debug\WInForm05_ComboBox.exe
+C:\CSharpWorkspace\WinForm\WInForm05_ComboBox\obj\Debug\WInForm05_ComboBox.pdb

@@ -1,7 +1,0 @@
-C:\CSharpWorkspace\Chapter02\Class\Class01\bin\Debug\Class01.exe.config
-C:\CSharpWorkspace\Chapter02\Class\Class01\bin\Debug\Class01.exe
-C:\CSharpWorkspace\Chapter02\Class\Class01\bin\Debug\Class01.pdb
-C:\CSharpWorkspace\Chapter02\Class\Class01\obj\Debug\Class01.csprojAssemblyReference.cache
-C:\CSharpWorkspace\Chapter02\Class\Class01\obj\Debug\Class01.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter02\Class\Class01\obj\Debug\Class01.exe
-C:\CSharpWorkspace\Chapter02\Class\Class01\obj\Debug\Class01.pdb

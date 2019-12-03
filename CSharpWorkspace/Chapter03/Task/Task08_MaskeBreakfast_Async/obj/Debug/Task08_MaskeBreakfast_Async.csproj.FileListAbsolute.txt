@@ -1,0 +1,7 @@
+C:\CSharpWorkspace\Chapter03\Task\Task08_MaskeBreakfast_Async\obj\Debug\Task08_MaskeBreakfast_Async.csprojAssemblyReference.cache
+C:\CSharpWorkspace\Chapter03\Task\Task08_MaskeBreakfast_Async\obj\Debug\Task08_MaskeBreakfast_Async.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter03\Task\Task08_MaskeBreakfast_Async\bin\Debug\Task08_MaskeBreakfast_Async.dll.config
+C:\CSharpWorkspace\Chapter03\Task\Task08_MaskeBreakfast_Async\bin\Debug\Task08_MaskeBreakfast_Async.dll
+C:\CSharpWorkspace\Chapter03\Task\Task08_MaskeBreakfast_Async\bin\Debug\Task08_MaskeBreakfast_Async.pdb
+C:\CSharpWorkspace\Chapter03\Task\Task08_MaskeBreakfast_Async\obj\Debug\Task08_MaskeBreakfast_Async.dll
+C:\CSharpWorkspace\Chapter03\Task\Task08_MaskeBreakfast_Async\obj\Debug\Task08_MaskeBreakfast_Async.pdb

@@ -1,6 +1,0 @@
-C:\CSharpWorkspace\Chapter02\Array\Indexer\bin\Debug\Indexer.exe.config
-C:\CSharpWorkspace\Chapter02\Array\Indexer\bin\Debug\Indexer.exe
-C:\CSharpWorkspace\Chapter02\Array\Indexer\bin\Debug\Indexer.pdb
-C:\CSharpWorkspace\Chapter02\Array\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter02\Array\Indexer\obj\Debug\Indexer.exe
-C:\CSharpWorkspace\Chapter02\Array\Indexer\obj\Debug\Indexer.pdb

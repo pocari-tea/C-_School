@@ -1,7 +1,0 @@
-C:\CSharpWorkspace\Chapter03\Delegate\Delegate01\bin\Debug\Delegate01.exe.config
-C:\CSharpWorkspace\Chapter03\Delegate\Delegate01\bin\Debug\Delegate01.exe
-C:\CSharpWorkspace\Chapter03\Delegate\Delegate01\bin\Debug\Delegate01.pdb
-C:\CSharpWorkspace\Chapter03\Delegate\Delegate01\obj\Debug\Delegate01.csprojAssemblyReference.cache
-C:\CSharpWorkspace\Chapter03\Delegate\Delegate01\obj\Debug\Delegate01.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter03\Delegate\Delegate01\obj\Debug\Delegate01.exe
-C:\CSharpWorkspace\Chapter03\Delegate\Delegate01\obj\Debug\Delegate01.pdb

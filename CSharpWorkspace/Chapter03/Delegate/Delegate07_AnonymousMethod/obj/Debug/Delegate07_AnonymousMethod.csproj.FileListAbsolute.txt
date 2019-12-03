@@ -1,0 +1,6 @@
+C:\CSharpWorkspace\Chapter03\Delegate\Delegate07_AnonymousMethod\bin\Debug\Delegate07_AnonymousMethod.exe.config
+C:\CSharpWorkspace\Chapter03\Delegate\Delegate07_AnonymousMethod\bin\Debug\Delegate07_AnonymousMethod.exe
+C:\CSharpWorkspace\Chapter03\Delegate\Delegate07_AnonymousMethod\bin\Debug\Delegate07_AnonymousMethod.pdb
+C:\CSharpWorkspace\Chapter03\Delegate\Delegate07_AnonymousMethod\obj\Debug\Delegate07_AnonymousMethod.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter03\Delegate\Delegate07_AnonymousMethod\obj\Debug\Delegate07_AnonymousMethod.exe
+C:\CSharpWorkspace\Chapter03\Delegate\Delegate07_AnonymousMethod\obj\Debug\Delegate07_AnonymousMethod.pdb

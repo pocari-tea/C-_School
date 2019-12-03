@@ -1,0 +1,6 @@
+C:\CSharpWorkspace\Chapter03\Thread\Thread02\bin\Debug\Thread02.exe.config
+C:\CSharpWorkspace\Chapter03\Thread\Thread02\bin\Debug\Thread02.exe
+C:\CSharpWorkspace\Chapter03\Thread\Thread02\bin\Debug\Thread02.pdb
+C:\CSharpWorkspace\Chapter03\Thread\Thread02\obj\Debug\Thread02.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\Chapter03\Thread\Thread02\obj\Debug\Thread02.exe
+C:\CSharpWorkspace\Chapter03\Thread\Thread02\obj\Debug\Thread02.pdb

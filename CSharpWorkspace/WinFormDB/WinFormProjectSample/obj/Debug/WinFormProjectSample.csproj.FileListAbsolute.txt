@@ -1,0 +1,15 @@
+C:\CSharpWorkspace\WinFormDB\WinFormProjectSample\obj\Debug\WinFormProjectSample.csprojAssemblyReference.cache
+C:\CSharpWorkspace\WinFormDB\WinFormProjectSample\obj\Debug\WinFormProjectSample.Properties.Resources.resources
+C:\CSharpWorkspace\WinFormDB\WinFormProjectSample\obj\Debug\WinFormProjectSample.csproj.GenerateResource.cache
+C:\CSharpWorkspace\WinFormDB\WinFormProjectSample\obj\Debug\WinFormProjectSample.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\WinFormDB\WinFormProjectSample\bin\Debug\WinFormProjectSample.exe.config
+C:\CSharpWorkspace\WinFormDB\WinFormProjectSample\bin\Debug\WinFormProjectSample.exe
+C:\CSharpWorkspace\WinFormDB\WinFormProjectSample\bin\Debug\WinFormProjectSample.pdb
+C:\CSharpWorkspace\WinFormDB\WinFormProjectSample\bin\Debug\MySql.Data.dll
+C:\CSharpWorkspace\WinFormDB\WinFormProjectSample\bin\Debug\Google.Protobuf.dll
+C:\CSharpWorkspace\WinFormDB\WinFormProjectSample\bin\Debug\BouncyCastle.Crypto.dll
+C:\CSharpWorkspace\WinFormDB\WinFormProjectSample\bin\Debug\Renci.SshNet.dll
+C:\CSharpWorkspace\WinFormDB\WinFormProjectSample\bin\Debug\MySql.Data.xml
+C:\CSharpWorkspace\WinFormDB\WinFormProjectSample\obj\Debug\WinFormProjectSample.csproj.CopyComplete
+C:\CSharpWorkspace\WinFormDB\WinFormProjectSample\obj\Debug\WinFormProjectSample.exe
+C:\CSharpWorkspace\WinFormDB\WinFormProjectSample\obj\Debug\WinFormProjectSample.pdb

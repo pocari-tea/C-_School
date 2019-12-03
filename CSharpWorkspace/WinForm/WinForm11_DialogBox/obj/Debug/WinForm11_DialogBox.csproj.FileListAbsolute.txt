@@ -1,0 +1,11 @@
+C:\CSharpWorkspace\WinForm\WinForm11_DialogBox\bin\Debug\WinForm11_DialogBox.exe.config
+C:\CSharpWorkspace\WinForm\WinForm11_DialogBox\bin\Debug\WinForm11_DialogBox.exe
+C:\CSharpWorkspace\WinForm\WinForm11_DialogBox\bin\Debug\WinForm11_DialogBox.pdb
+C:\CSharpWorkspace\WinForm\WinForm11_DialogBox\obj\Debug\WinForm11_DialogBox.csprojAssemblyReference.cache
+C:\CSharpWorkspace\WinForm\WinForm11_DialogBox\obj\Debug\WinForm11_DialogBox.Form1.resources
+C:\CSharpWorkspace\WinForm\WinForm11_DialogBox\obj\Debug\WinForm11_DialogBox.Form2.resources
+C:\CSharpWorkspace\WinForm\WinForm11_DialogBox\obj\Debug\WinForm11_DialogBox.Properties.Resources.resources
+C:\CSharpWorkspace\WinForm\WinForm11_DialogBox\obj\Debug\WinForm11_DialogBox.csproj.GenerateResource.cache
+C:\CSharpWorkspace\WinForm\WinForm11_DialogBox\obj\Debug\WinForm11_DialogBox.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\WinForm\WinForm11_DialogBox\obj\Debug\WinForm11_DialogBox.exe
+C:\CSharpWorkspace\WinForm\WinForm11_DialogBox\obj\Debug\WinForm11_DialogBox.pdb

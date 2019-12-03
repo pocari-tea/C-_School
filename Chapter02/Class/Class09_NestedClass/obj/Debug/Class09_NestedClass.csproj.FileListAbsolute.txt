@@ -1,7 +1,0 @@
-C:\CSharpWorkspace\Chapter02\Class\Class09_NestedClass\obj\Debug\Class09_NestedClass.csprojAssemblyReference.cache
-C:\CSharpWorkspace\Chapter02\Class\Class09_NestedClass\obj\Debug\Class09_NestedClass.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter02\Class\Class09_NestedClass\bin\Debug\Class09_NestedClass.exe.config
-C:\CSharpWorkspace\Chapter02\Class\Class09_NestedClass\bin\Debug\Class09_NestedClass.exe
-C:\CSharpWorkspace\Chapter02\Class\Class09_NestedClass\bin\Debug\Class09_NestedClass.pdb
-C:\CSharpWorkspace\Chapter02\Class\Class09_NestedClass\obj\Debug\Class09_NestedClass.exe
-C:\CSharpWorkspace\Chapter02\Class\Class09_NestedClass\obj\Debug\Class09_NestedClass.pdb

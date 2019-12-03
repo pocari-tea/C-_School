@@ -1,0 +1,10 @@
+C:\CSharpWorkspace\WinForm\WinForm06_Timer\bin\Debug\WinForm06_Timer.exe.config
+C:\CSharpWorkspace\WinForm\WinForm06_Timer\bin\Debug\WinForm06_Timer.exe
+C:\CSharpWorkspace\WinForm\WinForm06_Timer\bin\Debug\WinForm06_Timer.pdb
+C:\CSharpWorkspace\WinForm\WinForm06_Timer\obj\Debug\WinForm06_Timer.csprojAssemblyReference.cache
+C:\CSharpWorkspace\WinForm\WinForm06_Timer\obj\Debug\WinForm06_Timer.Form1.resources
+C:\CSharpWorkspace\WinForm\WinForm06_Timer\obj\Debug\WinForm06_Timer.Properties.Resources.resources
+C:\CSharpWorkspace\WinForm\WinForm06_Timer\obj\Debug\WinForm06_Timer.csproj.GenerateResource.cache
+C:\CSharpWorkspace\WinForm\WinForm06_Timer\obj\Debug\WinForm06_Timer.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\WinForm\WinForm06_Timer\obj\Debug\WinForm06_Timer.exe
+C:\CSharpWorkspace\WinForm\WinForm06_Timer\obj\Debug\WinForm06_Timer.pdb

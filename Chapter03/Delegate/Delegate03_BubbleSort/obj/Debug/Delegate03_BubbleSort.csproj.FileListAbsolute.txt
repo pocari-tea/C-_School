@@ -1,6 +1,0 @@
-C:\CSharpWorkspace\Chapter03\Delegate\Delegate03_BubbleSort\bin\Debug\Delegate03_BubbleSort.exe.config
-C:\CSharpWorkspace\Chapter03\Delegate\Delegate03_BubbleSort\bin\Debug\Delegate03_BubbleSort.exe
-C:\CSharpWorkspace\Chapter03\Delegate\Delegate03_BubbleSort\bin\Debug\Delegate03_BubbleSort.pdb
-C:\CSharpWorkspace\Chapter03\Delegate\Delegate03_BubbleSort\obj\Debug\Delegate03_BubbleSort.csproj.CoreCompileInputs.cache
-C:\CSharpWorkspace\Chapter03\Delegate\Delegate03_BubbleSort\obj\Debug\Delegate03_BubbleSort.exe
-C:\CSharpWorkspace\Chapter03\Delegate\Delegate03_BubbleSort\obj\Debug\Delegate03_BubbleSort.pdb

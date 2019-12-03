@@ -1,0 +1,10 @@
+C:\CSharpWorkspace\WinForm\WinForm07_ProgressBar\bin\Debug\WinForm07_ProgressBar.exe.config
+C:\CSharpWorkspace\WinForm\WinForm07_ProgressBar\bin\Debug\WinForm07_ProgressBar.exe
+C:\CSharpWorkspace\WinForm\WinForm07_ProgressBar\bin\Debug\WinForm07_ProgressBar.pdb
+C:\CSharpWorkspace\WinForm\WinForm07_ProgressBar\obj\Debug\WinForm07_ProgressBar.csprojAssemblyReference.cache
+C:\CSharpWorkspace\WinForm\WinForm07_ProgressBar\obj\Debug\WinForm07_ProgressBar.Form1.resources
+C:\CSharpWorkspace\WinForm\WinForm07_ProgressBar\obj\Debug\WinForm07_ProgressBar.Properties.Resources.resources
+C:\CSharpWorkspace\WinForm\WinForm07_ProgressBar\obj\Debug\WinForm07_ProgressBar.csproj.GenerateResource.cache
+C:\CSharpWorkspace\WinForm\WinForm07_ProgressBar\obj\Debug\WinForm07_ProgressBar.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\WinForm\WinForm07_ProgressBar\obj\Debug\WinForm07_ProgressBar.exe
+C:\CSharpWorkspace\WinForm\WinForm07_ProgressBar\obj\Debug\WinForm07_ProgressBar.pdb
